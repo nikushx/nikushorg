@@ -36,7 +36,9 @@ export default function Home() {
               <div className="flex w-1/2 justify-end content-center">
                 <a
                   className="inline-block text-blue-300 no-underline hover:text-green-200 hover:text-underline text-center h-10 p-2 md:h-auto md:p-4 transform hover:scale-125 duration-300 ease-in-out"
-                  href="https://twitter.com/intent/tweet?url=#"
+                  onClick={() => alert('No link yet, but coming soon.')}
+                  target="_blank"
+                  rel="noreferrer"
                 >
                   <svg
                     className="fill-current h-6"
