@@ -81,6 +81,7 @@ export default function Home() {
                   <a
                     href="https://calendly.com/nikush-org"
                     target="_blank"
+                    rel="noreferrer"
                     className="block text-center w-full bg-gradient-to-r from-red-500 via-yellow-900 to-green-700 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
                   >
                     Calendly
@@ -95,6 +96,7 @@ export default function Home() {
                   <a
                     href="https://www.blinkcommerce.io/"
                     target="_blank"
+                    rel="noreferrer"
                     className="block text-center w-full bg-gradient-to-r from-green-500 to-green-700 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
                   >
                     blink
@@ -102,6 +104,7 @@ export default function Home() {
                   <a
                     onClick={() => alert('No link yet, but coming soon.')}
                     target="_blank"
+                    rel="noreferrer"
                     className="block text-center w-full mt-2 bg-gradient-to-r from-green-700 to-green-500 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
                   >
                     based plant
@@ -116,6 +119,7 @@ export default function Home() {
                   <a
                     href="https://www.linkedin.com/in/nikush-dalia-a40280108"
                     target="_blank"
+                    rel="noreferrer"
                     className="block text-center w-full bg-gradient-to-r from-blue-500 to-blue-700 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
                   >
                     LinkedIn
@@ -123,6 +127,7 @@ export default function Home() {
                   <a
                     href="https://github.com/nikushx"
                     target="_blank"
+                    rel="noreferrer"
                     className="block text-center w-full mt-2 bg-gradient-to-r from-gray-500 to-gray-700 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
                   >
                     Github
@@ -130,6 +135,7 @@ export default function Home() {
                   <a
                     onClick={() => alert('No link yet, but coming soon.')}
                     target="_blank"
+                    rel="noreferrer"
                     className="block text-center w-full mt-2 bg-gradient-to-r from-blue-600 to-blue-500 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out"
                   >
                     Twitter
